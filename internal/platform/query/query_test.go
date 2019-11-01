@@ -3,9 +3,9 @@ package query_test
 import (
 	"testing"
 
-	"github.com/crouse/manShuPms/internal"
-	"github.com/crouse/manShuPms/internal/errors"
-	"github.com/crouse/manShuPms/internal/platform/query"
+	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pmsPms/internal/platform/query"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,7 +1,7 @@
 package mock
 
 import (
-	"github.com/crouse/manShuPms/internal"
+	"github.com/crouse/pmsPms/internal"
 )
 
 // JWT mock

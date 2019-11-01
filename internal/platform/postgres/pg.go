@@ -7,9 +7,9 @@ import (
 	"github.com/go-pg/pg"
 	// DB adapter
 	_ "github.com/lib/pq"
-	"github.com/crouse/manShuPms/internal"
+	"github.com/crouse/pmsPms/internal"
 
-	"github.com/crouse/manShuPms/cmd/api/config"
+	"github.com/crouse/pmsPms/cmd/api/config"
 )
 
 const notDeleted = "deleted_at is null"

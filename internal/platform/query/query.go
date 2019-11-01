@@ -1,9 +1,9 @@
 package query
 
 import (
-	"github.com/crouse/manShuPms/internal"
+	"github.com/crouse/pmsPms/internal"
 
-	"github.com/crouse/manShuPms/internal/errors"
+	"github.com/crouse/pmsPms/internal/errors"
 )
 
 // List prepares data for list queries

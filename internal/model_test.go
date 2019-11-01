@@ -3,9 +3,9 @@ package model_test
 import (
 	"testing"
 
-	"github.com/crouse/manShuPms/internal"
+	"github.com/crouse/pmsPms/internal"
 
-	"github.com/crouse/manShuPms/internal/mock"
+	"github.com/crouse/pmsPms/internal/mock"
 )
 
 func TestBeforeInsert(t *testing.T) {

@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/manShuPms/internal"
+	"github.com/crouse/pmsPms/internal"
 
-	"github.com/crouse/manShuPms/internal/errors"
+	"github.com/crouse/pmsPms/internal/errors"
 )
 
 // Register contains registration request

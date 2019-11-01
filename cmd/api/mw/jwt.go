@@ -5,11 +5,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/crouse/manShuPms/internal/errors"
+	"github.com/crouse/pmsPms/internal/errors"
 
-	"github.com/crouse/manShuPms/internal"
+	"github.com/crouse/pmsPms/internal"
 
-	"github.com/crouse/manShuPms/cmd/api/config"
+	"github.com/crouse/pmsPms/cmd/api/config"
 
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"

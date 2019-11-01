@@ -7,10 +7,10 @@ import (
 
 	"github.com/go-pg/pg/orm"
 
-	"github.com/crouse/manShuPms/internal"
+	"github.com/crouse/pmsPms/internal"
 
 	"github.com/go-pg/pg"
-	"github.com/crouse/manShuPms/internal/auth"
+	"github.com/crouse/pmsPms/internal/auth"
 )
 
 func main() {

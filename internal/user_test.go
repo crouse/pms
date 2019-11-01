@@ -3,7 +3,7 @@ package model_test
 import (
 	"testing"
 
-	"github.com/crouse/manShuPms/internal"
+	"github.com/crouse/pmsPms/internal"
 )
 
 func TestUpdateLastLogin(t *testing.T) {

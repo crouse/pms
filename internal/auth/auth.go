@@ -6,9 +6,9 @@ import (
 
 	"github.com/rs/xid"
 
-	"github.com/crouse/manShuPms/internal"
+	"github.com/crouse/pmsPms/internal"
 
-	"github.com/crouse/manShuPms/internal/errors"
+	"github.com/crouse/pmsPms/internal/errors"
 	"golang.org/x/crypto/bcrypt"
 
 	"github.com/gin-gonic/gin"

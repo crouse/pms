@@ -1,9 +1,9 @@
 # GORSK - GO(lang) Restful Starter Kit
 
-[![Build Status](https://travis-ci.org/crouse/manShuPms.svg?branch=master)](https://travis-ci.org/crouse/manShuPms)
-[![codecov](https://codecov.io/gh/crouse/manShuPms/branch/master/graph/badge.svg)](https://codecov.io/gh/crouse/manShuPms)
-[![Go Report Card](https://goreportcard.com/badge/github.com/crouse/manShuPms)](https://goreportcard.com/report/github.com/crouse/manShuPms)
-[![Maintainability](https://api.codeclimate.com/v1/badges/c3cb09dbc0bc43186464/maintainability)](https://codeclimate.com/github/crouse/manShuPms/maintainability)
+[![Build Status](https://travis-ci.org/crouse/pmsPms.svg?branch=master)](https://travis-ci.org/crouse/pmsPms)
+[![codecov](https://codecov.io/gh/crouse/pmsPms/branch/master/graph/badge.svg)](https://codecov.io/gh/crouse/pmsPms)
+[![Go Report Card](https://goreportcard.com/badge/github.com/crouse/pmsPms)](https://goreportcard.com/report/github.com/crouse/pmsPms)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c3cb09dbc0bc43186464/maintainability)](https://codeclimate.com/github/crouse/pmsPms/maintainability)
 
 Gorsk-Gin is a Golang starter kit for developing RESTful services, using Gin framework. I developed [Gorsk](https://github.com/ribice/gorsk) originally using Gin, but later moved it to Echo. This repository will be maintained with smaller changes done on Gorsk.
 
