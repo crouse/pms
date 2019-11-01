@@ -21,7 +21,7 @@ func main() {
 	INSERT INTO public.roles VALUES (3, 3, 'COMPANY_ADMIN');
 	INSERT INTO public.roles VALUES (4, 4, 'LOCATION_ADMIN');
 	INSERT INTO public.roles VALUES (5, 5, 'USER');`
-	var psn = ``
+	var psn = `postgres:amituofo@192.168.1.180`
 	queries := strings.Split(dbInsert, ";")
 
 	u, err := pg.ParseURL(psn)
