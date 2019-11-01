@@ -2,7 +2,7 @@ package mock
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pms/internal"
 )
 
 // Auth mock

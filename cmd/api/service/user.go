@@ -3,13 +3,13 @@ package service
 import (
 	"net/http"
 
-	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pms/internal"
 
-	"github.com/crouse/pmsPms/internal/errors"
-	"github.com/crouse/pmsPms/internal/user"
+	"github.com/crouse/pms/internal/errors"
+	"github.com/crouse/pms/internal/user"
 
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/pmsPms/cmd/api/request"
+	"github.com/crouse/pms/cmd/api/request"
 )
 
 // User represents user http service

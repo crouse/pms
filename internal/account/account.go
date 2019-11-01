@@ -3,11 +3,11 @@ package account
 import (
 	"net/http"
 
-	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pms/internal"
 
-	"github.com/crouse/pmsPms/internal/auth"
+	"github.com/crouse/pms/internal/auth"
 
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal/errors"
 
 	"github.com/gin-gonic/gin"
 )

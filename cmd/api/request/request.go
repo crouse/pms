@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal/errors"
 
 	"github.com/gin-gonic/gin"
 )

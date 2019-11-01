@@ -3,7 +3,7 @@ package mockdb
 import (
 	"context"
 
-	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pms/internal"
 )
 
 // User database mock

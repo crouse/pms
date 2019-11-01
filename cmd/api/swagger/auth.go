@@ -1,8 +1,8 @@
 package swagger
 
 import (
-	"github.com/crouse/pmsPms/cmd/api/request"
-	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pms/cmd/api/request"
+	"github.com/crouse/pms/internal"
 )
 
 // Login request

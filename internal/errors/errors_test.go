@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/assert"
 
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal/errors"
 	validator "gopkg.in/go-playground/validator.v8"
 )
 

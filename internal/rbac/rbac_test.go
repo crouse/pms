@@ -6,9 +6,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/crouse/pmsPms/internal"
-	"github.com/crouse/pmsPms/internal/mock"
-	"github.com/crouse/pmsPms/internal/rbac"
+	"github.com/crouse/pms/internal"
+	"github.com/crouse/pms/internal/mock"
+	"github.com/crouse/pms/internal/rbac"
 )
 
 func TestNew(t *testing.T) {

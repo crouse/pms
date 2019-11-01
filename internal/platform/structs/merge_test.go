@@ -3,7 +3,7 @@ package structs_test
 import (
 	"testing"
 
-	"github.com/crouse/pmsPms/internal/platform/structs"
+	"github.com/crouse/pms/internal/platform/structs"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,12 +3,12 @@ package service
 import (
 	"net/http"
 
-	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pms/internal"
 
-	"github.com/crouse/pmsPms/internal/account"
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal/account"
+	"github.com/crouse/pms/internal/errors"
 
-	"github.com/crouse/pmsPms/cmd/api/request"
+	"github.com/crouse/pms/cmd/api/request"
 
 	"github.com/gin-gonic/gin"
 )

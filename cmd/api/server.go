@@ -36,18 +36,18 @@ import (
 
 	"github.com/gin-contrib/cors"
 
-	"github.com/crouse/pmsPms/internal/platform/postgres"
+	"github.com/crouse/pms/internal/platform/postgres"
 
 	"github.com/gin-gonic/gin"
 	"github.com/go-pg/pg"
-	"github.com/crouse/pmsPms/cmd/api/config"
-	"github.com/crouse/pmsPms/cmd/api/mw"
-	"github.com/crouse/pmsPms/cmd/api/service"
-	_ "github.com/crouse/pmsPms/cmd/api/swagger"
-	"github.com/crouse/pmsPms/internal/account"
-	"github.com/crouse/pmsPms/internal/auth"
-	"github.com/crouse/pmsPms/internal/rbac"
-	"github.com/crouse/pmsPms/internal/user"
+	"github.com/crouse/pms/cmd/api/config"
+	"github.com/crouse/pms/cmd/api/mw"
+	"github.com/crouse/pms/cmd/api/service"
+	_ "github.com/crouse/pms/cmd/api/swagger"
+	"github.com/crouse/pms/internal/account"
+	"github.com/crouse/pms/internal/auth"
+	"github.com/crouse/pms/internal/rbac"
+	"github.com/crouse/pms/internal/user"
 	"go.uber.org/zap"
 )
 

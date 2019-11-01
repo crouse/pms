@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/pmsPms/cmd/api/request"
+	"github.com/crouse/pms/cmd/api/request"
 	"github.com/stretchr/testify/assert"
 )
 

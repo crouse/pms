@@ -2,7 +2,7 @@ package request
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal/errors"
 )
 
 // Credentials contains login request

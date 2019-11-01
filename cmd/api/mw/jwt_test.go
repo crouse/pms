@@ -8,13 +8,13 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pms/internal"
 
-	"github.com/crouse/pmsPms/cmd/api/config"
-	"github.com/crouse/pmsPms/internal/mock"
+	"github.com/crouse/pms/cmd/api/config"
+	"github.com/crouse/pms/internal/mock"
 
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/pmsPms/cmd/api/mw"
+	"github.com/crouse/pms/cmd/api/mw"
 )
 
 func hwHandler(c *gin.Context) {

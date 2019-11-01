@@ -8,17 +8,17 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal/errors"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/crouse/pmsPms/internal/user"
+	"github.com/crouse/pms/internal/user"
 
-	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pms/internal"
 
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/pmsPms/cmd/api/service"
-	"github.com/crouse/pmsPms/internal/mock"
-	"github.com/crouse/pmsPms/internal/mock/mockdb"
+	"github.com/crouse/pms/cmd/api/service"
+	"github.com/crouse/pms/internal/mock"
+	"github.com/crouse/pms/internal/mock/mockdb"
 )
 
 func TestListUsers(t *testing.T) {

@@ -4,16 +4,16 @@ import (
 	"context"
 	"testing"
 
-	"github.com/crouse/pmsPms/internal/mock"
+	"github.com/crouse/pms/internal/mock"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal/errors"
 
-	"github.com/crouse/pmsPms/internal"
-	"github.com/crouse/pmsPms/internal/account"
-	"github.com/crouse/pmsPms/internal/mock/mockdb"
+	"github.com/crouse/pms/internal"
+	"github.com/crouse/pms/internal/account"
+	"github.com/crouse/pms/internal/mock/mockdb"
 )
 
 func TestCreate(t *testing.T) {

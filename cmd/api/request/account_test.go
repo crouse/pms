@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/assert"
 
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/pmsPms/cmd/api/request"
+	"github.com/crouse/pms/cmd/api/request"
 )
 
 func TestAccountCreate(t *testing.T) {

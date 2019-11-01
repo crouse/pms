@@ -6,11 +6,11 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/crouse/pmsPms/internal/mock"
+	"github.com/crouse/pms/internal/mock"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/gin-gonic/gin"
-	"github.com/crouse/pmsPms/cmd/api/request"
+	"github.com/crouse/pms/cmd/api/request"
 )
 
 func TestUserUpdate(t *testing.T) {

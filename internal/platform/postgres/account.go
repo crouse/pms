@@ -4,9 +4,9 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/crouse/pmsPms/internal"
+	"github.com/crouse/pms/internal"
  
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal/errors"
 
 	"github.com/go-pg/pg"
 	"go.uber.org/zap"

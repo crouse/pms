@@ -5,14 +5,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/crouse/pmsPms/internal"
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal"
+	"github.com/crouse/pms/internal/errors"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/crouse/pmsPms/internal/mock/mockdb"
+	"github.com/crouse/pms/internal/mock/mockdb"
 
-	"github.com/crouse/pmsPms/internal/auth"
-	"github.com/crouse/pmsPms/internal/mock"
+	"github.com/crouse/pms/internal/auth"
+	"github.com/crouse/pms/internal/mock"
 )
 
 func TestAuthenticate(t *testing.T) {

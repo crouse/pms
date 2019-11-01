@@ -3,8 +3,8 @@ package pgsql
 import (
 	"context"
 
-	"github.com/crouse/pmsPms/internal"
-	"github.com/crouse/pmsPms/internal/errors"
+	"github.com/crouse/pms/internal"
+	"github.com/crouse/pms/internal/errors"
 
 	"go.uber.org/zap"
 

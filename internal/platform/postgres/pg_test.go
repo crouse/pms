@@ -5,11 +5,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/crouse/pmsPms/internal"
-	"github.com/crouse/pmsPms/internal/platform/postgres"
+	"github.com/crouse/pms/internal"
+	"github.com/crouse/pms/internal/platform/postgres"
 	"go.uber.org/zap"
 
-	"github.com/crouse/pmsPms/cmd/api/config"
+	"github.com/crouse/pms/cmd/api/config"
 
 	"github.com/fortytw2/dockertest"
 	"github.com/go-pg/pg"
